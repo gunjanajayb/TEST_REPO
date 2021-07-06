@@ -12,6 +12,12 @@ void fileExe()
   printf("This is fileExe\n");
 }
 
+
+void fileDel()
+{
+  printf("This is fileDel\n");
+}
+
 void filehandler()
 {
   printf("This is filehandler\n");
