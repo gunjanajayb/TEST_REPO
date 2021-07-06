@@ -7,6 +7,12 @@ void fileWrite()
 }
 
 
+void fileRead()
+{
+  printf("This is fileRead\n");
+}
+
+
 void fileExe()
 {
   printf("This is fileExe\n");
@@ -26,6 +32,16 @@ void testfunction()
 void filehandler()
 {
   printf("This is filehandler. Please check this line before commit\n");
+}
+
+void testB_function()
+{
+
+}
+
+void testB_function2()
+{
+  
 }
 
 int main()
