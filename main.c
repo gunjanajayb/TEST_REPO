@@ -6,6 +6,12 @@ void fileWrite()
   printf("This is fileWrite\n");
 }
 
+
+void fileExe()
+{
+  printf("This is fileExe\n");
+}
+
 void filehandler()
 {
   printf("This is filehandler\n");
