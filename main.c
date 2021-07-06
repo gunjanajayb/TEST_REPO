@@ -16,6 +16,11 @@ void filehandler()
   printf("This is filehandler\n");
 }
 
+void testB_function()
+{
+  
+}
+
 int main()
 {
   printf("This is main\n");
