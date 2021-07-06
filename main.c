@@ -18,6 +18,11 @@ void filehandler()
 
 void testB_function()
 {
+
+}
+
+void testB_function2()
+{
   
 }
 
